@@ -1,0 +1,8 @@
+body{
+	background-image:url(../img/fondorosa.jpg);
+	margin: 0;
+}
+header, footerñ{
+	background-image: url(..img/fondoclaro.jpg);
+	padding: 0.5cm;
+}
