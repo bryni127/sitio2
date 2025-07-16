@@ -3,16 +3,13 @@
   padding: 0;
   }
 
-html {
-  background: #fff;
-  }
 
 body {
   color: #333;
   font: 14px/24px sans-serif;
   margin: 0 auto;
-  max-width: 700px;
-  _width: 700px;
+  max-width: 1000px;
+  _width: 1000px;
   padding: 0 30px;
   text-align: center;
   -webkit-font-smoothing: antialiased;
@@ -25,12 +22,12 @@ body {
   }
 
 h1 {
-  font: 600 28px/36px sans-serif;
+  font: 500 28px/36px sans-serif;
   margin: 50px 0;
   }
 
 h3 {
-  font: 600 18px/24px sans-serif;
+  font: 50 18px/24px sans-serif;
   color: #999;
   margin: 0 0 20px;
   }
